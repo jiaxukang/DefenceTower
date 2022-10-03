@@ -2,13 +2,13 @@
 
 # run project
 
-for windows:
+for mac:
 
 `./gradlew build` 
 
 `./gradlew run`
 
-for mac:
+for windows:
 
 `gradlew build` 
 
